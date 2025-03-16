@@ -13,7 +13,7 @@ This repository contains code for deepfake using a GRU-based neural network mode
   - Precision-Recall Curve
 
 ## Live Demo
-Check out the live app [here](https://bharathpranav.streamlit.app/).
+Check out the live app [here](https://harshanj07-deepfake-streamlit-d1c2gs.streamlit.app/).
 
 ## Installation
 
@@ -68,15 +68,6 @@ The model evaluates its performance using the following metrics:
 2. The app processes the video, extracts frames, and performs inference.
 3. View the classification result along with evaluation metrics and visualizations.
 
-## File Structure
-
-```
-├── app.py                 # Streamlit application code
-├── model_training.py      # GRU model training and evaluation
-├── utils.py               # Utility functions for preprocessing and feature extraction
-├── requirements.txt       # Required Python packages
-├── README.md              # Project documentation
-```
 
 ## Example Output
 
@@ -90,14 +81,10 @@ The model evaluates its performance using the following metrics:
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 
 For any inquiries, feel free to reach out:
-- Author: Bharath Pranav
-- Email: bharathpranav91@gmail.com
-- Live Demo: [Streamlit App](https://bharathpranav.streamlit.app/)
+- Author: Harshan J 
+- Email: jharshan07@gmail.com
+- Live Demo: [Streamlit App](https://harshanj07-deepfake-streamlit-d1c2gs.streamlit.app/)
 
