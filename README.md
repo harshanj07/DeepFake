@@ -19,8 +19,7 @@ Check out the live app [here](https://harshanj07-deepfake-streamlit-d1c2gs.strea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/video-classification-gru.git
-   cd video-classification-gru
+   git clone https://github.com/harshanj07/DeepFake.git
    ```
 
 2. Install the required dependencies:
@@ -30,7 +29,7 @@ Check out the live app [here](https://harshanj07-deepfake-streamlit-d1c2gs.strea
 
 3. Run the Streamlit application:
    ```bash
-   streamlit run app.py
+   streamlit run Streamlit.py
    ```
 
 ## Dataset
